@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @m4nbat
 - 👀 I’m interested in all things Cyber Defence, Security Operations, Cloud Security and Threat Intelligence
 - 🌱 I’m currently investing time into SIGMA, Atomic-Red-Team, and Microsoft Sentinel
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on all things blue and purple !!!
+- 📫 Reach me on twitter via @knappresearchlb
 
 <!---
 m4nbat/m4nbat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
